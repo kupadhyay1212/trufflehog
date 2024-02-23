@@ -1,0 +1,2 @@
+# trufflehog
+Find leaked credentials.
